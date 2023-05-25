@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\BKP\University\Programming Fundamental\5th class (09092021)\Text Mode Game 01\Text Mode Game 01\Source.cpp(40,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\BKP\University\Programming Fundamental\5th class (09092021)\Text Mode Game 01\Text Mode Game 01\Source.cpp(40,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Text Mode Game 01.vcxproj -> D:\BKP\University\Programming Fundamental\5th class (09092021)\Text Mode Game 01\Debug\Text Mode Game 01.exe

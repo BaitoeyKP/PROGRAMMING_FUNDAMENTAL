@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+D:\BKP\University\Programming Fundamental\8th class (07102021)\Text-mode Game 4\Text-mode Game 4\Source1.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Text-mode Game 4.vcxproj -> D:\BKP\University\Programming Fundamental\8th class (07102021)\Text-mode Game 4\Debug\Text-mode Game 4.exe
